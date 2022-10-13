@@ -13,5 +13,5 @@ body{
     height: 80px;
     margin: 20px;
     border-radius: 50%;
-    filter: drop-shadow(0 0 5px white);
+    filter: drop-shadow(0 0 7px white);
 }
